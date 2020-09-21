@@ -29,8 +29,15 @@ For the auditory dataframe and remote work dataframe, I decided that I would dro
 The questions that I had about the data did not require modeling.
 
 ## Evaluation
-Developers who work for startups generally have a higher Job and Career satisfaction than developers from other types of companies. They are also more likely to be able to work remotely. For better job satisfaction, developers prefer to have no background noise or listen to music.
+* Developers who work for startups generally have a higher Job satisfaction than developers from other types of companies. 
+* Developers who work for startups generally have a higher Career satisfaction than developers from other types of companies.
+* Developers who work for startups generally more likely to be able to work remotely. 
+* For better job satisfaction, developers prefer to have no background noise or listen to music.
 
 ## File Descriptions
-The analysis work was completed in a Jupyter Notebook named: survey_results.ipynb. There is also an html file with the same information called: survey_results.html
+* The analysis work was completed in a Jupyter Notebook named: survey_results.ipynb. 
+* There is also an html file with the same information called: survey_results.html.
 
+## Licenses, Author and Acknowledgements
+* This project was completed as part of the Udacity Data Scientist Nanodegree
+* Data was aquired from stackoverflow.com [https://insights.stackoverflow.com/survey]
